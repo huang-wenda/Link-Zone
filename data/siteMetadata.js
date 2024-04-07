@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'A common zone',
   author: 'Link',
   headerTitle: 'Link Zone',
-  description: 'A ',
+  description: 'My Little Void.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
